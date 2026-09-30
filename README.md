@@ -23,6 +23,6 @@ Menguji sebuah kasus dengan berbagai komungkinan menggunakan type data Boolean d
 
 ## MATERI
 **BOOLEAN**
-*AND*
-*OR*
-*XOR*
+- *AND*
+- *OR*
+- *XOR*
