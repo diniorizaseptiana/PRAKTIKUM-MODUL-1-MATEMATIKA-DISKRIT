@@ -28,6 +28,6 @@ Menguji sebuah kasus dengan berbagai komungkinan menggunakan type data Boolean d
 - *XOR*
 
 ## APLIKASI/SYSTEM YANG DIGUNAKAN
-1. CMD/TTERMINAL (*ctrl + r, ketik cmd*)
+1. CMD/TERMINAL (*ctrl + r, ketik cmd*)
 2. NOTEPAD (*notepad nama_file.py, ketikan didalam cmd*)
 3. CHROME (*UNTUK MENGELOLA GITHUB*)
