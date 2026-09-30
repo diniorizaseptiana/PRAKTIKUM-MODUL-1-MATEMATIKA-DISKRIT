@@ -1,9 +1,9 @@
 # PRAKTIKUM-MODUL-1-MATEMATIKA-DISKRIT
-TUGAS PRAKTIKUM MATEMATIKA DISKRIT
+ **TUGAS PRAKTIKUM MATEMATIKA DISKRIT**
 
-NAMA   : DINI ORIZA SEPTIANA
-NIM    : 260306035
-KELAS  : 1B
+- NAMA   : DINI ORIZA SEPTIANA
+- NIM    : 260306035
+- KELAS  : 1B
 
 ## TUJUAN PROJECT
 Menguji sebuah kasus dengan berbagai komungkinan menggunakan type data Boolean dengan total 8 kasus
