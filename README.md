@@ -10,7 +10,7 @@ Menguji sebuah kasus dengan berbagai komungkinan menggunakan type data Boolean d
 
 ## KASUS YANG DIUJI
 
-| KASUS | 0PERATOR BOOLEAN|
+| KASUS | BOOLEAN |
 |---|---|
 | PENDAFTARAN KEGIATAN | AND |
 | VALIDASI ABSENSI | AND |
@@ -22,7 +22,7 @@ Menguji sebuah kasus dengan berbagai komungkinan menggunakan type data Boolean d
 | JENIS KEANGGOTAAN | XOR |
 
 ## MATERI
-*BOOLEAN*
+**BOOLEAN**
 *AND*
 *OR*
 *XOR*
