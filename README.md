@@ -29,5 +29,5 @@ Menguji sebuah kasus dengan berbagai komungkinan menggunakan type data Boolean d
 
 ## APLIKASI/SYSTEM YANG DIGUNAKAN
 1. CMD/TTERMINAL (*ctrl + r, ketik cmd*)
-2. NOTEPAD (*notepad nama_file.py, ketikan dimalam cmd*)
+2. NOTEPAD (*notepad nama_file.py, ketikan didalam cmd*)
 3. CHROME (*UNTUK MENGELOLA GITHUB*)
