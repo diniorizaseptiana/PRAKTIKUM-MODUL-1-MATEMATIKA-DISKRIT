@@ -11,7 +11,7 @@ Menguji sebuah kasus dengan berbagai komungkinan menggunakan type data Boolean d
 ## KASUS YANG DIUJI
 
 | KASUS | 0PERATOR BOOLEAN|
-|---|===|
+|---|---|
 | PENDAFTARAN KEGIATAN | AND |
 | VALIDASI ABSENSI | AND |
 | NOTIFIKASI PENGGUNA | OR |
