@@ -10,16 +10,16 @@ Menguji sebuah kasus dengan berbagai komungkinan menggunakan type data Boolean d
 
 ## KASUS YANG DIUJI
 
-| KASUS | BOOLEAN |
-|---|---|
-| PENDAFTARAN KEGIATAN | AND |
-| VALIDASI ABSENSI | AND |
-| NOTIFIKASI PENGGUNA | OR |
-| PILIHAN TRANSPORTASI | OR |
-| MEDIA PENYIMPANAN | OR |
-| JENIS PENGIRIMAN | XOR | 
-| MODE KEHADIRAN | XOR |
-| JENIS KEANGGOTAAN | XOR |
+| NO | KASUS | BOOLEAN |
+|---|---|---|
+| 1 | PENDAFTARAN KEGIATAN | AND |
+| 2 | VALIDASI ABSENSI | AND |
+| 3 | NOTIFIKASI PENGGUNA | OR |
+| 4 | PILIHAN TRANSPORTASI | OR |
+| 5 | MEDIA PENYIMPANAN | OR |
+| 6 | JENIS PENGIRIMAN | XOR | 
+| 7 | MODE KEHADIRAN | XOR |
+| 8 | JENIS KEANGGOTAAN | XOR |
 
 ## MATERI
 **BOOLEAN**
@@ -30,4 +30,4 @@ Menguji sebuah kasus dengan berbagai komungkinan menggunakan type data Boolean d
 ## APLIKASI/SYSTEM YANG DIGUNAKAN
 1. CMD/TERMINAL (*ctrl + r, ketik cmd*)
 2. NOTEPAD (*notepad nama_file.py, ketikan didalam cmd*)
-3. CHROME (*UNTUK MENGELOLA GITHUB*)
+3. BROWSER (*UNTUK MENGELOLA GITHUB*)
