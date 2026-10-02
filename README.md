@@ -27,7 +27,8 @@ Menguji sebuah kasus dengan berbagai komungkinan menggunakan type data Boolean d
 - *OR*
 - *XOR*
 
-## APLIKASI/SYSTEM YANG DIGUNAKAN
-1. CMD/TERMINAL (*ctrl + r, ketik cmd*)
-2. NOTEPAD (*notepad nama_file.py, ketikan didalam cmd*)
-3. BROWSER (*UNTUK MENGELOLA GITHUB*)
+## APLIKASI/OPERATION SYSTEM YANG DIGUNAKAN
+1. WINDOWS 11
+2. CMD/TERMINAL (*ctrl + r, ketik cmd*)
+3. NOTEPAD (*notepad nama_file.py, ketikan didalam cmd*)
+4. BROWSER (*UNTUK MENGELOLA GITHUB*)
